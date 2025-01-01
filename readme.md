@@ -1,4 +1,6 @@
 ## Hello, Git!
 
 - This is a git practice
-- Create a merge-conflict
+  <<<<<<< HEAD
+- # Create a merge-conflict
+  > > > > > > > main
